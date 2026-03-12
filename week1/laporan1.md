@@ -11,3 +11,5 @@ Mempelajari Wireshark
 ## Lampiran
 Hasil Percobaan:
 ![Hasil Percobaan](../assets/image/week1_1.png)
+![Hasil Percobaan](../assets/image/week1_2.png)
+![Hasil Percobaan](../assets/image/week1_3.png)
