@@ -34,7 +34,7 @@ Status code:
 - 200 OK → file ditemukan
 - 404 Not Found → file tidak ada
 
-## ▶️ Cara Menjalankan Server
+## Cara Menjalankan Server
 
 python server.py
 
@@ -43,12 +43,12 @@ Buka browser:
 http://localhost:6789/index.html
 
 
-## 🧪 Testing dengan Client
+## Testing dengan Client
 
 python client.py localhost 6789 index.html
 
 
-## 📸 Hasil Pengujian
+## Hasil Pengujian
 
 ### 1. Server Running
 ![Hasil Percobaan](../assets/image/week9_2.png)
@@ -67,7 +67,7 @@ http://localhost:6789/test.html
 ![Hasil Percobaan](../assets/image/week9_3.png)
 
 
-## ✅ Kesimpulan
+## Kesimpulan
 Web server berhasil:
 - Menerima request HTTP
 - Mengirim file HTML
