@@ -8,7 +8,7 @@ Membuat web server sederhana menggunakan TCP Socket Python yang mampu:
 - Menangani error 404
 
 
-## onsep Singkat
+## Konsep Singkat
 
 ### TCP Socket
 Socket adalah endpoint komunikasi jaringan.
