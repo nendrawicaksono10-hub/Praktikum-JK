@@ -165,7 +165,7 @@ Dari praktikum ini dapat disimpulkan bahwa:
 
 ---
 
-# 📷 Dokumentasi
+# Dokumentasi
 dokumentasi praktikum:
 - Screenshot ICMPv6 Echo Request & Reply
 ![Hasil Percobaan](../assets/image/week12_1.png) 
