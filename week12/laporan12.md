@@ -95,7 +95,7 @@ Paket ICMPv6 diamati menggunakan Wireshark untuk melihat:
 
 ---
 
-# 📸 Hasil Pengamatan
+# Hasil Pengamatan
 
 ## 1. Hasil ICMPv6 Echo Request dan Reply
 Pada hasil capture Wireshark ditemukan paket:
@@ -127,7 +127,7 @@ Hal ini menunjukkan bahwa:
 
 ---
 
-# 🔍 Analisis Praktikum
+# Analisis Praktikum
 
 ## Analisis ICMPv6
 Dari hasil praktikum dapat diketahui bahwa:
@@ -154,7 +154,7 @@ Dengan cara tersebut traceroute dapat mengetahui jalur router yang dilewati pake
 
 ---
 
-# 📌 Kesimpulan
+# Kesimpulan
 Dari praktikum ini dapat disimpulkan bahwa:
 
 1. ICMP digunakan sebagai protokol kontrol jaringan  
